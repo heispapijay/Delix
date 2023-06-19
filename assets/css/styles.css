@@ -299,6 +299,12 @@ body.dark-theme {
 .about__description {
   margin-bottom: var(--mb-2);
 }
+.story {
+  margin-top: var(--mb-2);
+}
+svg {
+  animation: waveAmin;
+}
 
 /*=============== SECURITY ===============*/
 .security__container {
